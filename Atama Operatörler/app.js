@@ -1,4 +1,4 @@
-// Atama Operatörleri
+// Atama Operatörleri------------
 
 /*
 
@@ -19,6 +19,11 @@
 // let sayi =6;
 // sayi=sayi+2;
 // console.log(sayi)
+
+// let sayi =6;
+// sayi=sayi/2;
+// console.log(sayi)
+
 
 
 
