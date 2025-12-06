@@ -1,6 +1,6 @@
 let kilo = Number(prompt("Kilonuzu giriniz"));
 
-let boy = Number(promt("Boyunuzu metre cinsinden giriniz)"));
+let boy = Number(prompt("Boyunuzu metre cinsinden giriniz)"));
 
 let sonuc = kilo / (boy * 2);
 
