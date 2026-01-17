@@ -35,12 +35,12 @@
 
 
 
-let sayi = Number(prompt("Lütfen bir sayi giriniz"));
-toplam = 0;
-for (i = 1; i <= sayi; i++) {
-    toplam += i;
-    console.log("Toplam" + toplam);
-}
+// let sayi = Number(prompt("Lütfen bir sayi giriniz"));
+// toplam = 0;
+// for (i = 1; i <= sayi; i++) {
+//     toplam += i;
+//     console.log("Toplam" + toplam);
+// }
 
 
 
